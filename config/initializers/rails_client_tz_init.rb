@@ -1,0 +1,1 @@
+RailsClientTimezone::Setting.mode = :ip
